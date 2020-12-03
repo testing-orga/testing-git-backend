@@ -1,2 +1,2 @@
 # testing-git-backend
-test
+Used for testing GIT backend for OCI Resource Manager service from a Github private repo.
